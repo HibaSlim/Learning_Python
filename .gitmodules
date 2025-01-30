@@ -1,3 +1,6 @@
 [submodule "Init_Pythonn"]
 	path = Init_Pythonn
 	url = https://github.com/HibaSlim/Init_Pythonn.git
+[submodule "Learning_Python"]
+	path = Learning_Python
+	url = https://github.com/HibaSlim/Learning_Python.git
